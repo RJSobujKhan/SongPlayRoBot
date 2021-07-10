@@ -30,7 +30,7 @@ def time_to_seconds(time):
 ## Commands --------------------------------
 @bot.on_message(filters.command(['start']))
 def start(client, message):
-    TamilBots = f'👋 𝗛𝗲𝗹𝗹𝗼 @{message.from_user.username}\n\n𝗜 𝗔𝗺 🎸Music Downloader 𝐁𝐨𝐭[🎶](https://telegra.ph/file/595e5068be7a938b65dc0.mp4)\n\n𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗\n\n𝗧𝘆𝗽𝗲 /song Typing Your Download 𝗦𝗼𝗻𝗴 𝗡𝗮𝗺𝗲\n\n𝐄𝐠.`/song Faded`'
+    TamilBots = f'👋 𝗛𝗲𝗹𝗹𝗼 @{message.from_user.username}\n\n𝗜 𝗔𝗺 🎸𝑴𝒖𝒔𝒊𝒄 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓 𝑩𝒐𝒕[🎶](https://telegra.ph/file/595e5068be7a938b65dc0.mp4)\n\n𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗\n\n𝗧𝘆𝗽𝗲 /S 𝑻𝒚𝒑𝒊𝒏𝒈 𝒀𝒐𝒖𝒓 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑺𝒐𝒏𝒈 𝑵𝒂𝒎𝒆\n\n𝐄𝐠.`/S Faded`'
     message.reply_text(
         text=TamilBots, 
         quote=False,
