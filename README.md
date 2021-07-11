@@ -6,7 +6,7 @@
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [🎸Music Downloader 𝐁𝐨𝐭🎶](https://t.me/MusicDownloadersBot)
+Demo : [🎸𝑴𝒖𝒔𝒊𝒄 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓 𝑩𝒐𝒕🎶](https://t.me/MusicDownloadersBot)
 
 Easy To Deploy 🤗
 
@@ -18,10 +18,10 @@ Easy To Deploy 🤗
 4) Manual Deploy To Your Repository. 
 ```
 ![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
-# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https://t.me/MusicDownloadersBot)
+# Reach Me On Telegram [🎸𝑴𝒖𝒔𝒊𝒄 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓 𝑩𝒐𝒕🎶](https://t.me/MusicDownloadersBot)
 
 # Report Any Error or Help Contact :
-[Channel 💬](https://t.me/TamilBots), 
-[Support ❤️](https://t.me/TamilSupport) 
+[Channel 💬](https://t.me/PremiumAppsAndModAppsFreeChannel), 
+[Support ❤️](https://t.me/PremiumAppsAndModAppsFreeGroup) 
 
 Report your problem along with your name to This [PERSON](https://t.me/RJSobujKhan) 😪
