@@ -89,7 +89,7 @@ def a(client, message):
         )
         print(str(e))
         return
-    m.edit("🔎 𝑭𝒊𝒏𝒅𝒊𝒏𝒈 𝑨 𝑺𝒐𝒏𝒈 🎶 𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕 ⏳️ 𝑭𝒐𝒓 𝑭𝒆𝒘 𝑺𝒆𝒄𝒐𝒏𝒅𝒔 [🚀](https://telegra.ph/file/43826d9b48d83841b5540.mp4)")
+    m.edit("🔎 𝐅𝐢𝐧𝐝𝐢𝐧𝐠 𝐀 𝐒𝐨𝐧𝐠 🎶 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 ⏳️ 𝐅𝐨𝐫 𝐅𝐞𝐰 𝐒𝐞𝐜𝐨𝐧𝐝𝐬 [🚀](https://telegra.ph/file/43826d9b48d83841b5540.mp4)")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
